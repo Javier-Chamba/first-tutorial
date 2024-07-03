@@ -13,7 +13,7 @@ Here's where you can put a description, examples, and instructions for the lesso
 
 This is the test text. Create a `index.html` file to pass this lesson.
 
-### HINTS
+#### HINTS
 
 - This is a hint to help people through the test
 - Second hint for 1.1, don't worry if the hints don't show up yet
