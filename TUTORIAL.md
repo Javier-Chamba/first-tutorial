@@ -1,4 +1,3 @@
-
 # Introduction
 
 This is an introduction to your tutorial. It will show up on the first page when your tutorial is started.
