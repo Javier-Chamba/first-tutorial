@@ -8,7 +8,6 @@ config:
   setup:
     commands:
       - cd coderoad && npm install
-  
   repo:
     uri: https://github.com/Javier-Chamba/first-tutorial
     branch: v0.1.0
